@@ -1,14 +1,249 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "quotes": [
+    { 
+      "text": "Strength doesn't come from what you can do; it comes from overcoming the things you once thought you couldn't.",
+      "author": "Rikki Rogers"
+    },
+    {
+      "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author: "Winston Churchill"
+    },
+    {
+      "text": "The only bad workout is the one that didn't happen.",  
+      "author: "Unknown"
+    },
+    {
+      "text": "Your body can stand almost anything; it's your mind you have to convince.",
+      "author: "Unknown"
+    },
+    {
+      "text": "The harder the battle, the sweeter the victory.",
+      "author: "Les Brown"
+    },
+    {
+      "text": "Don't count the days; make the days count.",
+      "author: "Muhammad Ali"
+    },
+    {
+      "text": "Sweat is just fat crying.",
+      "author: "Unknown"
+    },
+    {
+      "text": "The only person you should try to be better than is the person you were yesterday.",
+      "author: "Unknown"
+    },
+    {
+      "text": "It's not about having time; it's about making time.",
+      "author: "Unknown"
+    },
+    {
+      "text": "Believe in yourself, and you will be unstoppable.",
+      "author: "Unknown"
+    },
+    {
+      "text": "Strength grows in the moments when you think you can't go on but keep going anyway.",
+      "author: "Unknown"
+    },
+    {
+      "text": "Success is a journey, not a destination.",
+      "author: "Arthur Ashe"
+    },
+    {
+      "text": "The pain you feel today will be the strength you feel tomorrow.",
+      
+      "author: "Unknown"
+    },
+    {
+      "text": "Excuses don't burn calories.",
+      "author: "Unknown"
+    },
+    {
+      "text": "Fitness is not about being better than someone else; it's about being better than you used to be.",
+      "author: "Unknown"
+    },
+    {
+      "text": "The body achieves what the mind believes.",
+      "author: "Napoleon Hill"
+    },
+    {
+      "text": "The difference between a goal and a dream is a deadline.",
+      "author: "Steve Smith"
+    },
+    {
+      "text": "Make your vision so clear that your fears become irrelevant.",
+      "author: "Unknown"
+    },
+    {
+      "text": "Winners never quit, and quitters never win.",
+      "author: "Vince Lombardi"
+    },
+    {
+      "text": "Every workout is a step closer to your goals.",
+      "author: "Unknown"
+    },
+    {
+      "text": "You are only limited by your imagination",
+      "author: "Unknown"
+    },
+    {
+      "text": "Champions aren't built on the days they feel motivated but the days they feel like quitting",
+      "author: "Unknown"
+    },
+    {
+      "text": "No carelessness in my action, No confusion in my words, No imprecision in my thoughts.",
+      "author: "Unknown" 
+    },
+    {
+      "text": "There is nothing impossible to him who will try",
+      "author: "Alexander the Great"
+    },
+    {
+      "text": "I am not afraid of an army of lions led by a sheep; I am afraid of an army of sheep led by a lion.",
+      "author: "Alexander the Great"
+    },
+    {
+      "text": "I would rather live a short life of glory than a long one of obscurity.",
+      "author: "Alexander the Great"
+    },
+    {
+      "text": "There is nothing impossible to him who will try.",
+      "author: "Alexander the Great"
+    },
+    {
+      "text": "We all love ourselves more than other people, but care more about thier opinion than our own.",
+      "author: "Marcus Aurelius"
+    },
+    {
+      "text": "It's not what happens to you but how you react to it that matters",
+      "author: "Epictetus"
+    },
+    {
+      "text": "Have patience, all things are difficult before they become easy",
+      "author: "Saadi"
+    },
+    {
+      "text": "Do not expect life to be fair ",
+      "author: "Unknown"
+    },
+    {
+      "text": "It is a shame for a man to grow old without seeing the beauty and strength which his body is capable",
+      "author: "Socrates"
+    },
+    {
+      "text": "We live in the present, We dream of the future, And we learn eternal truths from the past.",
+      "author: "Madame Chiang Kai-Shek"
+    },
+    {
+      "text": "Wolves do not lose sleep over the opinions of sheep",
+      "author: "Unknown"
+    },
+    {
+      "text": "Once you see results, it becomes an addiction.",
+      "author: "Unknown"
+    },
+    {
+      "text": "The moment of pain is worth a lifetime of glory",
+      "author: "Unknown"
+    },
+    {
+      "text": "The pain you feel today will be the strength you feel tomorrow",
+      "author: "Unknown"
+    },
+    {
+      "text": "The happiness of your life depends upon the quality of your thoughts",
+      "author: "Marcus Aurelius"
+    },
+    {
+      "text": "I count him braver who overcomes his desires than him who conquers his enemies, for the hardest victory is over self",
+      "author: "Aristotle"
+    },
+    {
+      "text": "Everything you can imagine is real",
+      "author: "Pablo Picasso"
+    },
+    {
+      "text": "Isn't it time to embrace change and become the person you've always wanted to be?",
+      "author: "Unknown"
+    },
+    {
+      "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author: "Albert Schweitzer"
+    },
+    {
+      "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author: "Franklin D. Roosevelt"
+    },
+    {
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author: "Sam Levenson"
+    },
+    {
+      "text": "You don't have to be great to start, but you have to start to be great.",
+      "author: "Zig Ziglar"
+    },
+    {
+      "text": "The only way to do great work is to love what you do.",
+      "author: "Steve Jobs"
+    },
+    {
+      "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author: "Winston Churchill"
+    },
+    {
+      "text": "Dream big and dare to fail.",
+      "author: "Norman Vaughan"
+    },
+    {
+      "text": "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.",
+      "author: "Vince Lombardi"
+    },
+    {
+      "text": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+      "author: "Christian D. Larson"
+    },
+    {
+      "text": "Your body is a reflection of your lifestyle.",
+      "author: "Unknown"
+    },
+    {
+      "text": "Every accomplishment starts with the decision to try.",
+      "author: "Unknown"
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author: "Ralph Waldo Emerson"
+    },
+    {
+      "text": "Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't.",
+      "author: "Rikki Rogers"
+    },
+    {
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author: "Nelson Mandela"
+    },
+    {
+      "text": "The road to success and the road to failure are almost exactly the same.",
+      "author: "Colin R. Davis"
+    },
+    {
+      "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author: "Winston Churchill"
+    },
+    {
+      "text": "You are stronger than you think.",
+      "author: "Unknown"
+    },
+    {
+      "text": "Be the energy you want to attract.",
+      "author: "Unknown"
+    },
+    {
+      "text": "The only bad workout is the one that didn't happen.",
+      "author: "Unknown"
+    },
+    {
+      "text": "You are what you repeatedly do. Excellence is not an act, but a habit.",
+      "author: "Aristotle"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }

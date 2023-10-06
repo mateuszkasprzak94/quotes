@@ -1,29 +1,30 @@
 {
   "quotes": [
     { 
-      "text": "Strength doesn't come from what you can do; it comes from overcoming the things you once thought you couldn't."
-       
+      "text": "Strength doesn't come from what you can do; it comes from overcoming the things you once thought you couldn't.",
+      "author": "Rikki Rogers"
     },
     {
-      "text": "Success is walking from failure to failure with no loss of enthusiasm."
-      
+      "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill"
     },
     {
-      "text": "The only bad workout is the one that didn't happen."  
-       
+      "text": "The only bad workout is the one that didn't happen.",  
+      "author": "Unknown"
     },
     {
-      "text": "Your body can stand almost anything; it's your mind you have to convince."
-       
+      "text": "Your body can stand almost anything; it's your mind you have to convince.",
+      "author": "Unknown"
     },
     {
-      "text": "The harder the battle the sweeter the victory."
-       
+      "text": "The harder the battle, the sweeter the victory.",
+      "author": "Les Brown"
     },
     {
-      "text": "Don't count the days; make the days count."
-       
+      "text": "Don't count the days; make the days count.",
+      "author": "Muhammad Ali"
     }
+
        
   ]
 }

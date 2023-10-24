@@ -1,156 +1,154 @@
 {
   "quotes": [
     {
-      "id": 1,
+      "id": "1",
       "quote": " ''Strength doesn't come from what you can do; it comes from overcoming the things you once thought you couldn't.'' ",
       "author": " - Rikki Rogers"
     },
     {
-      "id": 2,
+      "id": "2",
       "quote": " ''Success is walking from failure to failure with no loss of enthusiasm.'' ",
       "author": " - Winston Churchill"
     },
     {
-      "id": 3,
-      "quote": " ''The only bad workout is the one that didn't happen.'' ",  
+      "id": "3",
+      "quote": " ''The only bad workout is the one that didn't happen.'' ",
       "author": " - Unknown"
     },
     {
-      "id": 4,
+      "id": "4",
       "quote": " ''Your body can stand almost anything; it's your mind you have to convince.'' ",
       "author": " - Unknown"
     },
     {
-      "id": 5,
+      "id": "5",
       "quote": " ''The harder the battle, the sweeter the victory.'' ",
       "author": " - Les Brown"
     },
     {
-      "id": 6,
+      "id": "6",
       "quote": " ''Don't count the days; make the days count.'' ",
       "author": " - Muhammad Ali"
     },
     {
-      "id": 7,
+      "id": "7",
       "quote": " ''Sweat is just fat crying.'' ",
       "author": " - Unknown"
     },
     {
-      "id": 8,
+      "id": "8",
       "quote": " ''The only person you should try to be better than is the person you were yesterday.'' ",
       "author": " - Unknown"
     },
     {
-      "id": 9,
+      "id": "9",
       "quote": " ''It's not about having time; it's about making time.'' ",
       "author": " - Unknown"
     },
     {
-      "id": 10,
+      "id": "10",
       "quote": " ''Believe in yourself, and you will be unstoppable.'' ",
       "author": " - Unknown"
     },
     {
-      "id": 11,
+      "id": "11",
       "quote": " ''Strength grows in the moments when you think you can't go on but keep going anyway.'' ",
       "author": " - Unknown"
     },
     {
-      "id": 12,
+      "id": "12",
       "quote": " ''Success is a journey, not a destination.'' ",
       "author": " - Arthur Ashe"
     },
     {
-      "id": 13,
+      "id": "13",
       "quote": " ''The pain you feel today will be the strength you feel tomorrow.'' ",
       "author": " - Unknown"
     },
     {
-      "id": 14,
+      "id": "14",
       "quote": " ''Excuses don't burn calories.'' ",
       "author": " - Unknown"
     },
     {
-      "id": 15,
+      "id": "15",
       "quote": " ''Fitness is not about being better than someone else; it's about being better than you used to be.'' ",
       "author": " - Unknown"
     },
     {
-      "id": 16,
+      "id": "16",
       "quote": " ''The body achieves what the mind believes.'' ",
       "author": " - Napoleon Hill"
     },
     {
-      "id": 17,
+      "id": "17",
       "quote": " ''The difference between a goal and a dream is a deadline.'' ",
       "author": " - Steve Smith"
     },
     {
-      "id": 18,
+      "id": "18",
       "quote": " ''Make your vision so clear that your fears become irrelevant.'' ",
       "author": " - Unknown"
     },
     {
-      "id": 19,
+      "id": "19",
       "quote": " ''Winners never quit, and quitters never win.'' ",
       "author": " - Vince Lombardi"
     },
     {
-      "id": 20,
+      "id": "20",
       "quote": " ''Every workout is a step closer to your goals.'' ",
       "author": " - Unknown"
     },
     {
-      "id": 21,
+      "id": "21",
       "quote": " ''You are only limited by your imagination'' ",
       "author": " - Unknown"
     },
     {
-      "id": 22,
+      "id": "22",
       "quote": " ''Champions aren't built on the days they feel motivated but the days they feel like quitting'' ",
       "author": " - Unknown"
     },
     {
-      "id": 23,
+      "id": "23",
       "quote": " ''No carelessness in my action, No confusion in my words, No imprecision in my thoughts.'' ",
-      "author": " - Unknown" 
+      "author": " - Unknown"
     },
     {
-      "id": 24,
+      "id": "24",
       "quote": " ''There is nothing impossible to him who will try'' ",
       "author": " - Alexander the Great"
     },
     {
-      "id": 25,
+      "id": "25",
       "quote": " ''I am not afraid of an army of lions led by a sheep; I am afraid of an army of sheep led by a lion.'' ",
       "author": " - Alexander the Great"
     },
     {
-      "id": 26,
+      "id": "26",
       "quote": " ''I would rather live a short life of glory than a long one of obscurity.'' ",
       "author": " - Alexander the Great"
     },
     {
-      "id": 27,
+      "id": "27",
       "quote": " ''There is nothing impossible to him who will try.'' ",
       "author": " - Alexander the Great"
     },
     {
-      "id": 28,
+      "id": "28",
       "quote": " ''We all love ourselves more than other people, but care more about thier opinion than our own.'' ",
       "author": " - Marcus Aurelius"
     },
     {
-      "id": 29,
+      "id": "29",
       "quote": " ''It's not what happens to you but how you react to it that matters'' ",
       "author": " - Epictetus"
     },
     {
-      "id": 30,
+      "id": "30",
       "quote": " ''Have patience, all things are difficult before they become easy'' ",
       "author": " - Saadi"
     }
-
-       
   ]
 }
